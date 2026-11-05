@@ -353,3 +353,8 @@ img {
   font-family: inherit;
   font-size: 1rem;
 }
+
+.nav a.active {
+  color: var(--brown);
+  border-bottom-color: var(--accent);
+}
